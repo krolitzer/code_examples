@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Path Finder</string>
+    <string name="menu_settings">Settings</string>
+    <string name="dist_location">Distance To Location:</string>
+    <string name="directions">Directions:</string>
+    <string name="route_name"></string>
+    <string name="distance_miles"></string>
+    <string name="go_here"></string>
+
+</resources>
